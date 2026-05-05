@@ -97,7 +97,7 @@ title: Home
       <ul class="clean-list">
         <!-- <li><span class="lang-zh"><strong>项目名：</strong>[请填写]</span><span class="lang-en"><strong>Name:</strong> [Fill here]</span></li> -->
         <li><span class="lang-zh"><strong>简介：</strong>Windows本地RPA工具，实现Excel数据自动录入与市妇幼平台历史数据下载，自动处理学生健康数据和历史记录，提高效率并保证结果可追溯。</span><span class="lang-en"><strong>Intro: </strong>A Windows RPA Tool — Automates student health data entry from Excel and downloads historical records, improving efficiency and traceability.</span></li>
-        <li><span class="lang-zh"><strong>技术栈：</strong>Spring Boot + POI + Playwright + Electron</span><span class="lang-en"><strong>Stack: </strong>Spring Boot + POI + Electron</span></li>
+        <li><span class="lang-zh"><strong>技术栈：</strong>Spring Boot + POI + Playwright + Electron</span><span class="lang-en"><strong>Stack: </strong>Spring Boot + POI + Playwright + Electron</span></li>
         <!-- <li><span class="lang-zh"><strong>仓库链接：</strong>[请填写]</span><span class="lang-en"><strong>Repo URL:</strong> [Fill here]</span></li> -->
         <!-- <li><span class="lang-zh"><strong>Demo 链接：</strong>[可选]</span><span class="lang-en"><strong>Demo URL:</strong> [Optional]</span></li> -->
       </ul>
