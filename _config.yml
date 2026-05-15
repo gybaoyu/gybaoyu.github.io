@@ -59,9 +59,9 @@ profile:
       url: "https://github.com/gybaoyu"
     - type: email
       icon: mail
-      label_zh: abaloneovo@gmail.com
-      label_en: abaloneovo@gmail.com
-      url: "mailto:abaloneovo@gmail.com"
+      label_zh: gavychen@outlook.com
+      label_en: gavychen@outlook.com
+      url: "mailto:gavychen@outlook.com"
 
 # Build settings
 theme: minima
