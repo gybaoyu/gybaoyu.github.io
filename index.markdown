@@ -75,22 +75,6 @@ title: Home
 </section>
 
 <section class="card">
-  <h2><span class="lang-zh">友链</span><span class="lang-en">Friends</span></h2>
-  <div class="friend-links">
-    <a class="friend-link-item" href="https://daman-yang.github.io/" target="_blank" rel="noopener noreferrer">
-      <span class="friend-link-avatar">D</span>
-      <span class="friend-link-name">Daman</span>
-      <span class="friend-link-domain">daman-yang.github.io</span>
-    </a>
-    <a class="friend-link-item" href="https://yewenyi.eu.org/" target="_blank" rel="noopener noreferrer">
-      <span class="friend-link-avatar">忆</span>
-      <span class="friend-link-name">忆屋</span>
-      <span class="friend-link-domain">yewenyi.eu.org</span>
-    </a>
-  </div>
-</section>
-
-<section class="card">
   <h2><span class="lang-zh">项目</span><span class="lang-en">Projects</span></h2>
   <div class="project-grid">
     <article class="project-item">
@@ -118,5 +102,31 @@ title: Home
         <!-- <li><span class="lang-zh"><strong>Demo 链接：</strong>[可选]</span><span class="lang-en"><strong>Demo URL:</strong> [Optional]</span></li> -->
       </ul>
     </article>
+  </div>
+</section>
+
+<section class="card">
+  <h2><span class="lang-zh">友链</span><span class="lang-en">Friends</span></h2>
+  <div class="friend-links">
+    <a class="friend-link-item" href="https://daman-yang.github.io/" target="_blank" rel="noopener noreferrer">
+      <span class="friend-link-avatar">D</span>
+      <span class="friend-link-name">Daman</span>
+      <span class="friend-link-domain">daman-yang.github.io</span>
+    </a>
+    <a class="friend-link-item" href="https://yewenyi.eu.org/" target="_blank" rel="noopener noreferrer">
+      <span class="friend-link-avatar">忆</span>
+      <span class="friend-link-name">忆屋</span>
+      <span class="friend-link-domain">yewenyi.eu.org</span>
+    </a>
+    <a class="friend-link-item" href="https://citatek.cn/ target="_blank" rel="noopener noreferrer">
+      <span class="friend-link-avatar">C</span>
+      <span class="friend-link-name">CITATEK</span>
+      <span class="friend-link-domain">citatek.cn</span>
+    </a>
+        <a class="friend-link-item" href="https://turinno.co/ target="_blank" rel="noopener noreferrer">
+      <span class="friend-link-avatar">T</span>
+      <span class="friend-link-name">Turinno</span>
+      <span class="friend-link-domain">turinno.co</span>
+    </a>
   </div>
 </section>
