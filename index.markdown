@@ -106,7 +106,7 @@ title: Home
 </section>
 
 <section class="card">
-  <h2><span class="lang-zh">友链</span><span class="lang-en">Friends</span></h2>
+  <h2><span class="lang-zh">友链</span><span class="lang-en">Links</span></h2>
   <div class="friend-links">
     <a class="friend-link-item" href="https://daman-yang.github.io/" target="_blank" rel="noopener noreferrer">
       <span class="friend-link-avatar">D</span>
