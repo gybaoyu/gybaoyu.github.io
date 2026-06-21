@@ -118,12 +118,12 @@ title: Home
       <span class="friend-link-name">忆屋</span>
       <span class="friend-link-domain">yewenyi.eu.org</span>
     </a>
-    <a class="friend-link-item" href="https://citatek.cn/ target="_blank" rel="noopener noreferrer">
+    <a class="friend-link-item" href="https://citatek.cn/" target="_blank" rel="noopener noreferrer">
       <span class="friend-link-avatar">C</span>
       <span class="friend-link-name">CITATEK</span>
       <span class="friend-link-domain">citatek.cn</span>
     </a>
-    <a class="friend-link-item" href="https://turinno.co/ target="_blank" rel="noopener noreferrer">
+    <a class="friend-link-item" href="https://turinno.co/" target="_blank" rel="noopener noreferrer">
       <span class="friend-link-avatar">T</span>
       <span class="friend-link-name">Turinno</span>
       <span class="friend-link-domain">turinno.co</span>
