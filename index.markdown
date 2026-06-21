@@ -75,6 +75,22 @@ title: Home
 </section>
 
 <section class="card">
+  <h2><span class="lang-zh">友链</span><span class="lang-en">Friends</span></h2>
+  <div class="friend-links">
+    <a class="friend-link-item" href="https://daman-yang.github.io/" target="_blank" rel="noopener noreferrer">
+      <span class="friend-link-avatar">D</span>
+      <span class="friend-link-name">Daman</span>
+      <span class="friend-link-domain">daman-yang.github.io</span>
+    </a>
+    <a class="friend-link-item" href="https://yewenyi.eu.org/" target="_blank" rel="noopener noreferrer">
+      <span class="friend-link-avatar">忆</span>
+      <span class="friend-link-name">忆屋</span>
+      <span class="friend-link-domain">yewenyi.eu.org</span>
+    </a>
+  </div>
+</section>
+
+<section class="card">
   <h2><span class="lang-zh">项目</span><span class="lang-en">Projects</span></h2>
   <div class="project-grid">
     <article class="project-item">

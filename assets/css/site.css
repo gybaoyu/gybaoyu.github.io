@@ -336,6 +336,69 @@ html[data-theme="dark"] .tech-tag-emerald { color: #bdd8ce; background: #1f322d;
 html[data-theme="dark"] .tech-tag-amber { color: #dccfb6; background: #352f24; border-color: #4c4434; }
 html[data-theme="dark"] .tech-tag-rose { color: #ddc3ca; background: #34272c; border-color: #4b383f; }
 
+/* 友链卡片：展示朋友链接 */
+.friend-links {
+  display: grid;
+  gap: 0.55rem;
+}
+
+.friend-link-item {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--panel-soft);
+  text-decoration: none;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.friend-link-item:hover {
+  transform: translateY(-1px);
+  border-color: color-mix(in srgb, var(--line) 70%, var(--text-muted) 30%);
+}
+
+.friend-link-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.friend-link-name {
+  font-weight: 600;
+  color: var(--text);
+  flex-shrink: 0;
+}
+
+.friend-link-domain {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-left: auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .friend-link-item {
+    transition: none;
+  }
+
+  .friend-link-item:hover {
+    transform: none;
+  }
+}
+
 .post-list {
   margin: 0;
   padding-left: 1.1rem;
